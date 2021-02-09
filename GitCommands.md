@@ -49,3 +49,10 @@
 # Master Branch
 ### Master branch refers to the default branch of the Repository. 
 
+# Remote/Add/Remove/Show
+* Add command adds a file from a local repository to a remote repository.
+
+`code`
+`git add <name-of-the-file>`
+
+
