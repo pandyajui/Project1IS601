@@ -27,7 +27,7 @@
 `code`
 `git commit`
 
-![Commit](COMMIT.PNG)
+
 
 # Checkout
 
