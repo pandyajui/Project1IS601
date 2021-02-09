@@ -38,3 +38,11 @@
 
 `code`
 ` git push `
+
+# Merge
+
+### The git merge command is used to combine two branches.
+
+`code`
+` git merge`
+
