@@ -8,3 +8,6 @@
 
 ### Prithvi
 
+* Created file for Git commands. (02/08/2021)
+* Added git commands definitions. (02/08/2021)
+* Code examples for command definitions.(02/08/2021)
