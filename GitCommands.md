@@ -1,3 +1,8 @@
+## Gitflow
+### The gitFlow workflow is a workflow that helps the software development process stay continuous. There are different branches where code is features are developed, released, and hotfixed. In the development branch, code for the project is developed. In the hotfix branch, all hotfixes being done for the code are found there. In the release branch, the latest release of the application is developed. There is also the features branch where each new feature is pushed into a central repository.
+
+## Git Commands
+
 ## Repository 
 
 #### A repository contains all of our project's files and each file's revision history along with number of commits and updates made by users.
