@@ -22,6 +22,8 @@
 # Commit
 
 #### Commit is used to save changes to local repository
+`code`
+`git commit`
 
 # Checkout
 
