@@ -18,6 +18,8 @@
 
 #### Commit is used to save changes to local repository
 
+![Commit](COMMIT.PNG)
+
 
 # Checkout
 
