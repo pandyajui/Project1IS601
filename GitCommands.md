@@ -55,10 +55,7 @@
 `code`
 `git add <name-of-the-file>`
 
-* Remove command removes an added file from the queue.
 
-`code`
-`git remove <name-of-the-file>`
 
 
 
