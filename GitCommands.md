@@ -17,13 +17,17 @@
 
 #### A branch in Git repository is a pointer that is able to move and provide commits. Default branch in a newly created repository is Master, which is the main root of where the stored resources can be found.
 `code`
-`git branch <new_branch_name>`
+`git branch <new_branch_name>
+
+
 
 # Commit
 
 #### Commit is used to save changes to local repository
 `code`
 `git commit`
+
+![Commit](COMMIT.PNG)
 
 # Checkout
 
