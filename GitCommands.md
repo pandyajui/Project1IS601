@@ -13,3 +13,28 @@
 # Branch
 
 #### A branch in Git repository is a pointer that is able to move and provide commits. Default branch in a newly created repository is Master, which is the main root of where the stored resources can be found.
+
+# Commit
+
+#### Commit is used to save changes to local repository
+
+# Checkout
+
+#### Checkout command helps to switch between branches
+
+`code`
+` git checkout branch name `
+
+# Status
+
+#### The git status command shows the state of the working directory and the staging area. It allows you to see staged changes and the files that aren’t being tracked by Git. 
+
+`code`
+` git status `
+
+# Push
+
+#### The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo.
+
+`code`
+` git push `
