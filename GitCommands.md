@@ -17,3 +17,12 @@
 # Commit
 
 #### Commit is used to save changes to local repository
+
+# Checkout
+
+#### Checkout command helps to switch between branches
+
+`code`
+` git checkout branch name `
+
+
