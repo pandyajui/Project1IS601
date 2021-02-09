@@ -60,6 +60,10 @@
 `code`
 `git remove <name-of-the-file>`
 
+* Show command shows the files that are ready to be added in the branch.
+
+`code`
+`git show <name-of-the-file>`
 
 
 
