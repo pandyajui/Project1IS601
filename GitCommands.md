@@ -25,4 +25,10 @@
 `code`
 ` git checkout branch name `
 
+# Status
+
+#### The git status command shows the state of the working directory and the staging area. It allows you to see staged changes and the files that aren’t being tracked by Git. 
+
+`code`
+` git status `
 
