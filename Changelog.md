@@ -5,6 +5,7 @@
 * Added some example codes.(02/08/2021)
 * Merged and pulled requests.(02/08/2021)
 * Added images for git and docker. (02/08/2021)
+* Added gitflow(02/08/2021)
 
 ### Prithvi
 
