@@ -47,5 +47,5 @@
 ` git merge`
 
 # Master Branch
-### Master branch refers to the default branch of the repository. 
+### Master branch refers to the default branch of the Repository. 
 
