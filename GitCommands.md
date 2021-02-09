@@ -30,7 +30,7 @@
 #### Checkout command helps to switch between branches
 
 `code`
-` git checkout branch name `
+` git checkout <branch_name> `
 
 # Status
 
